@@ -52,7 +52,7 @@ pipeline:
                     connectorRef: MoeCon
                     repo: moemirza12/go-test
                     tags:
-                      - latest
+                      - "1.2"
           platform:
             os: Linux
             arch: Amd64
