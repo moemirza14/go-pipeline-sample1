@@ -60,8 +60,8 @@ pipeline:
             type: Cloud
             spec: {}
     - stage:
-        name: DeployM
-        identifier: DeployM
+        name: Deploy_Moe
+        identifier: Deploy_Moe
         description: ""
         type: Deployment
         spec:
