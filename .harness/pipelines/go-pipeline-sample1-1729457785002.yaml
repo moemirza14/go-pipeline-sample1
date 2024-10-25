@@ -50,7 +50,7 @@ pipeline:
                   identifier: Build_And_Push_Docker_Registry
                   spec:
                     connectorRef: MoeCon
-                    repo: moemirza12
+                    repo: moemirza12/go-test
                     tags:
                       - latest
           platform:
