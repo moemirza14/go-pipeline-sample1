@@ -49,8 +49,8 @@ pipeline:
                   name: Build And Push Docker Registry
                   identifier: Build_And_Push_Docker_Registry
                   spec:
-                    connectorRef: <+input>
-                    repo: <+input>
+                    connectorRef: MoeCon
+                    repo: moemirza12
                     tags:
                       - latest
           platform:
